@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(240, 220, 184);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.Contain {
+  margin: 5px;
+  background-color: rgb(179, 218, 237);
+  display: grid;
+  grid-template-columns: 550px 850px;
+  width: 1410px;
+  height: 2150px;
+  justify-content: center;
+  border-radius: 70px;
+  box-shadow: 7px 7px 7px black;
+}
+img {
+  margin: 10px;
+  width: 430px;
+  height: 470px;
+  border-radius: 500px;
+}
+h1{
+  font-size: 100px;
+  text-align: center;
+  margin-left: -150px;
+}
+h2{
+  font-size: 35px;
+  font-weight: 1000px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-style: solid;
+  border-width: 7px;
+  border-color: rgba(74, 4, 73, 0.779);
+  border-top: none;
+  border-left:none;
+  border-right: none;
+  
+}
+h3{
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 500;
+}
+p{
+  font-size:25px;
+  font-weight: 750;
+}
+
+.left-section {
+  background-color: rgb(248, 232, 242);
+  width: 450px;
+  height: 1800px;
+  border-radius: 50px;
+  margin-top: 60px;
+  margin-left: 60px;
+}
+.leftText{
+  margin-left: 35px;
+}
+.right-section {
+  
+}
+.Course{
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  opacity: 0.7;
+}
+
