@@ -5,7 +5,6 @@ body {
 }
 
 .Contain {
-  margin: 5px;
   background-color: rgb(179, 218, 237);
   display: grid;
   grid-template-columns: 550px 800px;
