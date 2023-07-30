@@ -69,4 +69,12 @@ p{
   font-weight: bolder;
   opacity: 0.7;
 }
+@media (orientation : portrait) and (min-width : 670px) {
+  .Contain{
+    min-width: 670px;
+    height:2200 ;
+    margin-right: 70px;
+  }
+  
+}
 
