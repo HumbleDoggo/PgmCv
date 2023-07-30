@@ -24,7 +24,7 @@ img {
 h1{
   font-size: 100px;
   text-align: center;
-  margin-left: -150px;
+  margin-auto;
 }
 h2{
   font-size: 35px;
