@@ -8,7 +8,7 @@ body {
   margin: 5px;
   background-color: rgb(179, 218, 237);
   display: grid;
-  grid-template-columns: 550px 850px;
+  grid-template-columns: 550px 800px;
   width: 1410px;
   height: 2150px;
   justify-content: center;
